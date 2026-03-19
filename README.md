@@ -1,5 +1,7 @@
-# SMART AID - FOR REMOTE VICTIMS
+# Smart Aid – AI Emergency Assistant
 
+> This project is based on an original implementation by PAGADALA-MOKSHAGNA.  
+> I enhanced it by adding data tracking, analytics, and AI-based improvements.
 ## MongoHelper Function 
 
 ## 🧠 **Purpose of MongoHelper**
